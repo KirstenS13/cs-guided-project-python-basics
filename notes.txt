@@ -1,0 +1,34 @@
+9/29/20 - Python Basics
+
+Lectures will usually be breakout rooms apparently
+    --What's the point then? Might as well just teach ourselves.
+
+Python:
+
+# = comment
+
+no {}
+
+white space matters
+
+: are important
+
+def defines a function
+
+for var in var = for loop
+
+print = console.log
+
+list ~~ array
+
+if ... else: = if else statement
+
+if ... elif: = else if statement
+
+
+
+The breakout rooms are doing absolutely nothing for me and for many others, but the instructor does not seem very empathetic about that 
+
+It would make way more sense to teach us basic Python syntax and show us examples that we work together before shoving us into breakout rooms.
+
+Why should I attend lecture if she expects us to do this on our own anyway?
